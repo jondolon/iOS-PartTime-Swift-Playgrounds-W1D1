@@ -33,7 +33,7 @@ count = 10
 //:
 //: Now it's your turn. Change `greeting` to be a different string by using the assignment operator.
 
-greeting = “New greeting text!”
+greeting = "New greeting!"
 
 //: *Note:* unlike math, where `x = 10` and `10 = x` are interchangeable, in programming the variable goes on the left of the `=` symbol, and the new value goes on the right.
 
